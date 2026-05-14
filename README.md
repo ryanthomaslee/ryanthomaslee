@@ -1,19 +1,35 @@
-# Hi, I'm Ryan Lee 👋
-## Behavioural Scientist & Organisational Strategist
+# Hi, I'm Ryan 👋
 
-I specialise in bridging the gap between psychological research and scalable digital interventions. Currently pursuing an MSc in Psychology and Neuroscience of Mental Health at King's College London, my focus lies in developing data-driven frameworks to quantify and mitigate occupational burnout, as well as evaluating the neurodevelopmental impacts of AI integration in educational technology.
+I work at the intersection of **behavioural science, organisational strategy, and applied AI**. My focus: turning clinical and psychological research into tools and systems that organisations can actually use.
 
-As the founder of JAI Behavioural, I leverage clinical insights to build robust, organisational-level strategies and tools.
+Currently completing an **MSc in Psychology and Neuroscience of Mental Health at King's College London**, where my research focuses on:
+- Quantifying and mitigating occupational burnout
+- Evaluating the neurodevelopmental impacts of AI in educational technology
 
-### 🛠 Technical & Analytical Stack
-* **Data Science & Analytics:** R, SQL, Tableau, Google Data Studio, Advanced Excel
-* **Web & AI Engineering:** Next.js, React, Firebase, Genkit AI integration, AI-Assisted Development
-* **Domain Expertise:** Behavioural Research, Burnout Prevention (NEU Framework), AI Governance Readiness Audits
+I'm the founder of **[JAI Behavioural](https://www.jaibehavioural.com/)**, where I help organisations design evidence-based interventions for workforce wellbeing and AI governance.
 
-### 🚀 Featured Work
-* [**JIT Platform**](https://github.com/ryanthomaslee/JIT): A full-stack web application designed to operationalise the NEU Framework, providing AI-driven burnout assessments and personalised recovery protocols.
-* [**NEU Pilot Analysis**](https://github.com/ryanthomaslee/NEU-PILOT-ANALYSIS): A rigorous statistical analysis in R evaluating pre- and post-intervention burnout domain shifts across an initial cohort.
+---
 
-📫 **Let's connect:** * [JAI Behavioural](https://www.jaibehavioural.com/)
-* [LinkedIn](https://www.linkedin.com/in/ryaninthailand/)
-* [Substack](https://substack.com/@ryanthomaslee)
+## 🛠 What I Build With
+
+**Research & Analytics** — R, SQL, Python, Tableau, statistical modelling for behavioural data  
+**Engineering** — Next.js, React, Firebase, Python (XGBoost, Streamlit, pandas)  
+**Frameworks** — The **NEU Framework** for burnout, AI Governance Readiness audits
+
+---
+
+## 🚀 Featured Projects
+
+**[JIT Platform](https://github.com/ryanthomaslee/JIT)** — Full-stack web app operationalising the NEU Framework. AI-driven burnout assessments and personalised recovery protocols.
+
+**[NEU Pilot Analysis](https://github.com/ryanthomaslee/NEU-PILOT-ANALYSIS)** — Statistical analysis in R evaluating pre/post-intervention burnout domain shifts across an initial cohort.
+
+**[JAI-TRADING-RESEARCH](https://github.com/ryanthomaslee/JAI-TRADING-RESEARCH)** — Market intelligence dashboard for stocks and crypto. Walk-forward ML backtesting, calibrated probability scoring, Streamlit web UI. A research project exploring whether ML adds edge over passive holding (honest answer: it doesn't, after costs — and the README explains why).
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [JAI Behavioural](https://www.jaibehavioural.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryaninthailand/)
+- ✍️ [Substack](https://substack.com/@ryanthomaslee)
