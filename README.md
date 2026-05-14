@@ -33,7 +33,3 @@ I'm the founder of **[JAI Behavioural](https://www.jaibehavioural.com/)**, where
 - 🌐 [JAI Behavioural](https://www.jaibehavioural.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ryaninthailand/)
 - ✍️ [Substack](https://substack.com/@ryanthomaslee)
-
----
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanthomaslee&show_icons=true&theme=dark&hide_border=true)
